@@ -1,0 +1,22 @@
+{
+  "name": "test-tiny-npm",
+  "version": "0.0.1",
+  "description": "This is a test module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangjiashen/tiny-trial-npm.git"
+  },
+  "author": "Jiashen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangjiashen/tiny-trial-npm/issues"
+  },
+  "homepage": "https://github.com/zhangjiashen/tiny-trial-npm#readme",
+  "keywords": [
+    "npm"
+  ]
+}
